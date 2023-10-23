@@ -37,19 +37,55 @@ header {
     align-items: center;
 }
 
-.cl-image {
+.carl-image {
     width: 300px;
     height: 300px;
     margin: 15px 20px;
     
 }
 
-.text-right-of-img {
-    font-size: 15px;
-    color: rgb(213, 207, 198);
-    margin: 25px 30px;
+.middle-cont {
+    display: flex;
 }
 
-.text-in-right {
-    margin: 10px;
+.left-side {
+    width: 50%;
+    padding-left: 5%;
+    padding-right: 3%;
+}
+
+.right-side {
+    width: 50%;
+    padding-right: 5%;
+    padding-left: 3%;
+}
+
+.header-right {
+    font-size: 27px;
+}
+
+.header-left {
+    font-size: 27px;
+}
+
+.left-side-text {
+    font-size: 22px;
+}
+
+.header2-right {
+    font-size: 25px;
+}
+
+.right-side-text {
+    font-size: 22px;
+}
+
+.history-of-chlorine-img {
+    width: 100%;
+    height: auto;
+}
+
+.properties-img {
+    width: 100%;
+    height: auto;
 }

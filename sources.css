@@ -31,25 +31,14 @@ header {
     font-style: italic;
 }
 
-.top-row {
+.sources-cont {
     display: flex;
     flex-direction: column;
     align-items: center;
+    width: 100%;
+
 }
 
-.cl-image {
-    width: 300px;
-    height: 300px;
-    margin: 15px 20px;
-    
-}
-
-.text-right-of-img {
-    font-size: 15px;
-    color: rgb(213, 207, 198);
-    margin: 25px 30px;
-}
-
-.text-in-right {
-    margin: 10px;
+.sources-text {
+    font-size: 16px;
 }
