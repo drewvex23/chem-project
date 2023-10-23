@@ -88,4 +88,11 @@ header {
 .properties-img {
     width: 100%;
     height: auto;
+    margin-top: 15%;
+}
+
+.under-prop-img {
+    width: 100%;
+    height: auto;
+    margin-top: 15%;
 }
